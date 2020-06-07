@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.2",
+  "name": "CocosParkour",
+  "uuid": "25c2647f-5415-4a98-932a-f186f46c17b3",
+  "id": "eb64353e-4ac6-4ccb-8189-67020207d8f6"
+}
